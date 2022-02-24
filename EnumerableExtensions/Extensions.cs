@@ -5,7 +5,7 @@ using System.Collections;
 public static class Extensions
 {
     /// <summary>
-    /// Determine whether the enumerable type is null or empty.
+    /// Determines whether the enumerable type is null or empty.
     /// </summary>
     /// <typeparam name="T">The item type of the enumerable</typeparam>
     /// <param name="enumerable">The enumerable</param>
